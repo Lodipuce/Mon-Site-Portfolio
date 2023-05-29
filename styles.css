@@ -1,6 +1,11 @@
 * {
     background-color: #0E0359;
+    color: #590202;
     font: Magistral;
+}
+
+body {
+    background-color: #d98e7e;
 }
 
 #acceuil {
