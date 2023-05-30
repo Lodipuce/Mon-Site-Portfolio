@@ -1,11 +1,11 @@
-* {
+body {
     background-color: #0E0359;
     color: #fbfafa;
     font: Magistral;
 }
 
-body,section,p {
-    background-color: #d98e7e;
+section,p {
+    background-color: #d98f7e4d;
 }
 
 #acceuil {
