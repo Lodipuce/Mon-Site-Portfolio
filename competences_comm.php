@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <link rel="stylesheet" href="styles.css"> -->
+        <title>Les compétences qui améliorent la communication</title>
+    </head>
+
+    <body>
+        <?php include('header_sommaire_comm.php'); ?>
+
+        <h1>Les compétences qui améliorent la communication</h1>
+
+        <ul>
+            <li><a href="#assertivite">L'assertivité</a></li>
+            <li><a href="#ecouteActive">L'écoute active</a></li>
+            <li><a href="#empathie">L'empathie</a></li>
+            <li><a href="#bienveillance">La bienveillance</a></li>
+            <li><a href="#monAvis">Mon avis</a></li>
+        </ul>
+
+
+        <section id="assertivite">
+            <h2>L'assertivité</h2>
+            <p>L'assertivité est la capacité d'exprimer ses sentiments et d'affirmer ses droits, tout en respectant les sentiments et les droits des autres.</p>
+            <p>Autrement dit, l'assertivité désigne le fait de défendre ses droits personnels et d'exprimer ses pensées, ses sentiments et ses convictions de façon directe, honnête, ferme et appropriée. Toujours en respectant les pensées, sentiments et convictions des autres personnes.</p>
+            <p>Les personnes assertives possèdent d'excellentes qualités de communication interpersonnelles et sont animées par une recherche permanente de franchise et de respect mutuel.</p>
+
+            <figure>
+                <img src="./img/5leviersAssertivite2.png" alt="5 leviers pour développer l'assertivité"/>
+                <figcaption>Source : <a href="https://se-realiser.com/pourquoi-et-comment-developper-lassertivite/" target="_blank">se-realiser.com</a>, Design par Human Vectors, Vecteezy, Chanut is Industries, pch.vector Iconscout et Se-realiser</figcaption>
+            </figure>
+
+            <aside>Pour en savoir plus : <a href="https://www.assertivite.net/definition-assertivite" target="_blank">Assertivite.net</a></aside>
+        </section>
+
+
+        <section id="ecouteActive">
+            <h2>L'écoute active</h2>
+            <p>L'écoute active, également appelée écoute bienveillante, exige de savoir écouter avec attention ce que l'autre a à nous dire. L'intention est de saisir chaque détail du message, qu'il soit verbal ou non. Ceci afin de faire comprendre à l'autre que l'on a entendu et compris son message.</p>
+            <p>Selon Carl Rogers, le psychologue qui a développé cette technique, elle se décompose en 5 étapes.</p>
+
+            <figure>
+                <img src="./img/imperatifs_ecoute_active.jpg" alt="les impératifs de l'écoute active"/>
+                <figcaption>Source : Deastance Services</figcaption>
+            </figure>
+            
+            <p>Les principes de bases fondamentaux de l'écoute active sont <strong>la non-directivité</strong> et <strong>l'empathie</strong>.</p>
+            <p>On peut tout de même dégager quelques conseils pratiques :</p>
+
+            <figure>
+                <img src="./img/conseils_ecoute_active.jpg" alt="conseils pour pratiquer l'écoute active"/>
+                <figcaption>Source : Deastance Services</figcaption>
+            </figure>
+            
+        </section>
+
+
+        <section id="empathie">
+            <h2>L'empathie</h2>
+            <p>La définition de Carl Rogers:</p>
+            <p>Être empathique consiste à percevoir avec justesse le cadre de référence interne de son interlocuteur ainsi que les raisonnements et émotions qui en résultent.</p>
+
+            <figure>
+                <img src="./img/SkillSheets_Empathy_FR_20231024_1.jpg" alt="empathie flyer recto"/>
+                <figcaption>Source : <a href="https://www.unodc.org/unodc/fr/listen-first/super-skills/empathy.html#:~:text=L'empathie%20est%20la%20capacit%C3%A9,%C3%A0%20un%20monde%20plus%20juste." target="_blank">unodc.org</a></figcaption>
+                <img src="./img/SkillSheets_Empathy_FR_20231024_2.jpg" alt="empathie flyer verso"/>
+                <figcaption>Source : <a href="https://www.unodc.org/unodc/fr/listen-first/super-skills/empathy.html#:~:text=L'empathie%20est%20la%20capacit%C3%A9,%C3%A0%20un%20monde%20plus%20juste." target="_blank">unodc.org</a></figcaption>
+            </figure>
+                
+        </section>
+
+
+        <section id="bienveillance">
+            <h2>La bienveillance</h2>
+            <p>La définition de la bienveillance est la suivante : <strong>disposition d'autrui inclinant à la compréhension, à l'indulgence envers autrui</strong> (Larousse).</p>
+            <p>La vidéo suivante montre les principes généraux de la bienveillance, applicables au monde du travail et pour la plupart à la vie personnelle également.</p>
+
+            <figure>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/baUnidwEL-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <figcaption>Source : Actualisation TV</figcaption>
+            </figure>
+            
+        </section>
+
+
+        <section id="monAvis">
+            <h2>Mon avis</h2>
+            <p>J'ai toujours pratiqué l'écoute active, bien avant de savoir que cela portait un nom. Car je suis une oreille attentive.</p>
+            <p>De même, l'empathie est chez moi naturelle. Je dois cependant faire attention à ne pas tomber dans la compassion car j'ai souvent tendance à m'oublier en voulant aider les autres !</p>
+            <p>Ainsi, je reconnais avoir besoin de travailler l'assertivité. Car j'ai tendance à faire passer les besoins des autres avant les miens. J'ai déjà travaillé sur l'affirmation de moi. J'ai fait d'énormes progrès. Il en reste à faire.</p>
+            <p>En ce qui concerne la bienveillance, je pense en faire preuve globalement. Je pense sincèrement qu'une société, au sens large du terme, ne peut avancer sereinement si chacun ne pense qu'à soi.</p>
+        </section>
+
+        <?php include('footer.php'); ?>
+
+    </body>
+</html>

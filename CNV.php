@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <link rel="stylesheet" href="styles.css"> -->
+        <title>Communication Non Violente</title>
+    </head>
+
+    <body>
+        <?php include('header_sommaire_comm.php'); ?>
+
+        <h1>La Communication Non Violente (CNV)</h1>
+
+        <figure>
+            <blockquote>
+                <p>La Communication Non Violente est le langage et les interactions qui renforcent notre aptitude à donner avec bienveillance et à inspirer aux autres le désir d'en faire autant.</p>
+            </blockquote>
+            <figcaption>Marshall Rosenberg, fondateur de la CNV</figcaption>
+            <cite><a href="https://cnvfrance.fr/communication-non-violente/" target="_blank">cnvfrance.fr</a></cite>
+        </figure>
+
+        <ul>
+            <li><a href="#definition">Définition</a></li>
+            <li><a href="#etapes">Les étapes de la CNV</a></li>
+            <li><a href="#identifier">Identifier ses émotions et ses besoins</a></li>
+            <li><a href="#apports">Que peut apporter la CNV ?</a></li>
+            <li><a href="#monAvis">Mon avis</a></li>
+        </ul>
+
+        <section id="definition">
+            <h2>Définition</h2>
+            <p>La communication Non Violente (CNV) est une méthode de communication formalisée par Marshall B. Rosenberg (qui fut un élève de Carl Rogers). La CNV se fonde sur des principes d'authenticité, de bienveillance et de responsabilisation qui peuvent guider nos comportements, faciliter nos interactions, limiter les risques de conflits et ainsi favoriser la sané psychologique.</p>
+            <p>En nous aidant à identifier nos besoins réciproques, la CNV nous encourage à utiliser un langage qui favorise l'élan du coeur et la coopération, plutôt qu'un langage qui nourrit la peur, la culpabilité ou le reproche.</p>
+        </section>
+
+        <section id="etapes">
+            <h2>Les étapes de la CNV</h2>
+            <p>La CNV repose sur un processus en 4 étapes : OSBD.</p>
+            <p><strong>OBSERVER</strong> : décrire les faits objectivement, sans jugement, sans interprétation</p>
+            <p><strong>SENTIMENT</strong> : exprimer les sentiments que l'on ressent par rapport à la situation</p>
+            <p><strong>BESOIN</strong> : énoncer nos besoins par rapport à la situation</p>
+            <p><strong>DEMANDE</strong> : proposer une solution, énoncer une demande claire et précise</p>
+            <figure>
+                <img src="./img/cnv-dessin.gif" alt="bonhomme OSBD"/>
+                <figcaption>Source : <a href="https://sainte-bernadette.apprentis-auteuil.org/la-communication-non-violente/" target="_blank">sainte-bernadette.apprentis-auteuil.org</a></figcaption>
+                <img src="./img/CNV-exercice.png" alt="phrases pour aider à la CNV"/>
+                <figcaption>Source : <a href="https://apprendreaeduquer.fr/972/" target="_blank">apprendreaeduquer.fr</a></figcaption>
+            </figure>
+        </section>
+
+        <section id="identifier">
+            <h2>Identifier ses émotions et ses besoins</h2>
+            <p>Savoir identifier ses émotions, comme ses besoins, n'est pas toujours facile.</p>
+            <p>Pour cela, on peut utiliser des roues, des listes, des cartes... Le moyen qui vous semble le meilleur pour vous ! </p>
+            <p>Le principe général de ces sortes d'aides-mémoire est de lister les émotions ou les besoins en les catégorisant à partir des émotions ou besoins primordiaux.</p>
+            <p>Il existe 6 émotions de base : la colère, la joie, la tristesse, la surprise, la peur et le dégoût.</p>
+            <p>Les besoins quant à eux sont souvent partagés entre les besoins physiologiques, les besoins de sécurité, d'appartenance, d'estime et d'accomlissement de soi (Pyramide de Maslow).</p>
+
+            <figure>
+                <img src="./img/ROUE-EMOTIONS-2021.jpg" alt="roue des émotions"/>
+                <figcaption>Source : Harmonie Académie</figcaption>
+                <img src="./img/ROUE-BESOINS-2021_Page_1-1.jpeg" alt="roue des besoins"/>
+                <figcaption>Source : Harmonie Académie</figcaption>
+            </figure>
+        </section>
+
+        <section id="apports">
+            <h2>Que peut apporter la CNV ?</h2>
+            <ul>
+                <li>La CNV donne des outils pour mieux vivre les conflits, qui restent malgré tout inévitables.</li>
+                <li>Au travail, la CNV permet de remettre de l'authenticité et de la responsabilité dans nos rapports aux autres. Quand les besoins de chacun sont identifiés et écoutés, parvenir à des solutions qui respectent chacun est plus facile.</li>
+                <li>Au sein du couple, l'approche de la CNV peut être d'une grande aide pour retrouver une qualité et une profondeur de connexion.</li>
+                <li>En apprenant à identifier nos émotions et nos besoins, nous améliorons notre relation à nous-mêmes. La CNV permet ainsi de soigner de vieilles blessures émotionnelles, en acceptant d'aller les rencontrer.</li>
+            </ul>   
+        </section>
+
+        <section id="monAvis">
+            <h2>Mon avis</h2>
+            <p>J'ai appris à me servir de la CNV lors d'une thérapie d'Affirmation de Soi. Je ne suis certainement pas la personne la plus affirmée du monde (!) mais cette technique, parmi d'autres, m'a changé la vie.</p>
+            <p>J'ai appris à faire attention à ce que je ressens, à ce dont j'ai besoin, et à le demander. Sans heurts.</p>
+            <p>Si chacun pouvait en faire autant, ne pas attendre que la soupape explose avant de chercher ce qui ne va pas, comme je le faisais avant, exprimer ses besoins, calmement. Le monde se porterait mieux.</p>
+            <p>J'imagine.</p>
+        </section>
+
+        <aside>
+            <h2>Pour en savoir plus !</h2>
+            <p>Rendez vous sur <a href="https://cnvfrance.fr/" target="_blank">cnvfrance.fr</a> !! </p>
+        </aside>
+
+        <?php include('footer.php'); ?>
+
+    </body>
+</html>

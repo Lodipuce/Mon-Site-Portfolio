@@ -7,23 +7,9 @@
     <!-- <link rel="stylesheet" href="styles.css"> -->
     <title>La Communication</title>
 </head>
-<body>
-    <header>
-        <nav>
-            <a href="sommaire_general.html">Accueil</a>
-        </nav>
-
-        <nav>
-            <a href="competences_comm.html">Compétences qui améliorent la communication</a>
-            <a href="savoir_etre.html">Savoir être</a>
-            <a href="CNV.html">Communication Non Violente</a>
-            <a href="comm_efficace.html">Communication efficace</a>
-            <a href="styles_comm.html">Styles de communication</a>
-            <a href="prise_de_parole.html">Prise de parole en public</a>
-        </nav>
-    </header>
 
     <body>
+        <?php include('header_sommaire_comm.php'); ?>
         
         <h1>La communication</h1>
 
@@ -52,18 +38,7 @@
             
         </aside>
 
-        
+        <?php include('footer.php'); ?>
 
     </body>
-
-    <footer>
-        <nav>
-            <a href="communication.html" target="_blank">Communication</a>
-            <a href="motivation.html" target="_blank">Exprimer sa motivation</a>
-            <a href="gestion.html" target="_blank">Gestion</a>
-            <a href="entreprise.html" target="_blank">Vie en entreprise</a>
-            <a href="autres_competences.html" target="_blank">Autres compétences</a>
-        </nav>
-    </footer>
-</body>
 </html>
