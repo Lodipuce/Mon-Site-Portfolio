@@ -6,7 +6,6 @@
 
     <nav>
         <a href="competences_comm.php">Compétences qui améliorent la communication</a>
-        <a href="savoir_etre.php">Savoir être</a>
         <a href="CNV.php">Communication Non Violente</a>
         <a href="comm_efficace.php">Communication efficace</a>
         <a href="styles_comm.php">Styles de communication</a>

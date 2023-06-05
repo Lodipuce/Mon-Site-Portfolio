@@ -9,11 +9,7 @@
 </head>
 
     <body>
-        <header>
-            <nav>
-                <a href="sommaire_general.html" target="_blank">Accueil</a>
-            </nav>
-        </header>
+        <?php include('header_motivation.php'); ?>
 
         
         <h1>Exprimer sa motivation</h1>
