@@ -85,7 +85,7 @@
         <section id="feedback">
             <h2>Le feedback</h2>
             <figure>
-                <img src="./img/methode6C.jpg" alt="Définition des 6C"/>
+                <img src="./img/feedback.jpg" alt="feedback"/>
                 <figcaption>Source : Deastance Services</figcaption>
             </figure>
         </section>
