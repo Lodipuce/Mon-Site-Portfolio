@@ -66,10 +66,28 @@
 
         <section id="methode">
             <h2>La méthode des 6C</h2>
+            <p>Quand on veut aborder une notion complexe devant des personnes qui n'y connaissent absolument rien, on parle de <strong>vulgarisation</strong>. On en parle le plus souvent dans le domaine scientifique. Mais cela peut s'appliquer à n'importe quoi : si je n'y connais rien en comptabilité, quelqu'un devra vulgariser la chose pour que je commence à appréhender le domaine.</p>
+            <figure>
+                <img src="./img/methode6C.jpg" alt="Définition des 6C"/>
+                <figcaption>Source : Deastance Services</figcaption>
+            </figure>
+            <ul>
+                <li><strong>Clarté</strong> : être vigilant avec les acronymes qui devront tous être définis dès le départ. Il faudra aussi veiller à commencer par les notions les plus générales pour aller ensuite vers les plus compliquées, on appelle ça la technique de l'entonnoir.</li>
+                <li><strong>Connexion</strong> : créer une connexion avec le public. Pour cela, il va falloir essayer de le surprendre, de le faire rire, de l'épater ou de lui faire peur. Vous pouvez aussi l'amuser ou partager vos propres émotions.</li>
+                <li><strong>Contexte</strong> : expliquer le contexte de ce que l'on va expliquer permet à l'auditeur d'en comprendre l'intérêt. Combien d'entre nous sont allés en cours au  collège ou au lycée en se demandant à quoi ça sert ? Pour se rendre compte bien des années plus tard "Aaahh c'était à ça que ça servait !!!" En le disant dès le début de l'explication, on évite bien des décrochages.</li>
+                <li><strong>Concret</strong> : <cite>Un dessin vaut mieux qu'un long discours.</cite> Ou ici, un échantillon, une maquette, une démonstration, une comparaison. Quelque chose qui permette à l'auditeur de se projeter dans le réel. Si vous parlez de clients par exemple, inventez-en un et donnez-lui un prénom, une histoire, une famille, des goûts, etc.</li>
+                <li><strong>Couleur</strong> : si vous utilisez des schémas ou graphiques, faites en sorte qu'ils soient lisibles et compréhensibles. Mettre de la couleur dans ses propos, c'est aussi utiliser des analogies, des métaphores et des formules. Ainsi, l'auditeur visualise le message avec des termes simples et éloignés du jargon. Et souvent plus mémorisable que tout le reste !</li>
+                <li><strong>Conversation</strong> : engager la conversation. Laisser à l'auditeur la possibilité de poser des questions, instaurer un échange.</li>
+            </ul>
+            <aside>Pour en savoir plus : <a href="https://agentmajeur.fr/vulgarisation-scientifique-astuces/" target="_blank">agentmajeur.fr</aside>
         </section>
 
         <section id="feedback">
             <h2>Le feedback</h2>
+            <figure>
+                <img src="./img/methode6C.jpg" alt="Définition des 6C"/>
+                <figcaption>Source : Deastance Services</figcaption>
+            </figure>
         </section>
 
         <section id="feedforward">
