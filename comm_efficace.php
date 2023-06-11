@@ -14,11 +14,10 @@
 
         <ul>
             <li><a href="#cercle">Le cercle d'or</a></li>
-            <li><a href="#corporel">Le langage non verbal</a></li>
+            <li><a href="#corporel">La communication non verbale</a></li>
             <li><a href="#questions">Les questions puissantes</a></li>
             <li><a href="#methode">La méthode des 6C</a></li>
-            <li><a href="#feedback">Le feedback</a></li>
-            <li><a href="#feedforward">Le feedforward</a></li>
+            <li><a href="#feedback">Le feedback / feedforward</a></li>
             <li><a href="#monAvis">Mon avis</a></li>
         </ul>
 
@@ -37,7 +36,19 @@
         </section>
 
         <section id="corporel">
-            <h2>Le langage non verbal</h2>
+            <h2>La communication non verbale</h2>
+            <p>La communication non verbale désigne une manière de communiquer sans l'emploi de mots, à l'aide de l'ensemble du langage corporel. Bien souvent, ce langage est inconscient mais on peut apprendre à le décrypter ou simplement à y faire un peu plus attention.</p>
+            <p>Le message transmis par la communication non verbale peut venir appuyer le message verbal, ou au contraire l'altérer, ou encore transmettre une information supplémentaire. Nous percevons toujours des informations émanant de notre interlocuteur, consciemment ou non, à travers son attitude.</p>
+            <p>Les éléments de la communication non verbale :</p>
+            <ul>
+                <li><strong>L'apparence physique</strong> : c'est la première chose que l'on voit d'une personne. La première impression. L'apparence physique englobe vêtements, accessoires, maquillage, coiffure, couleurs choisies. L'allure générale d'une personne reflète l'image projetée, l'image souhaitée et l'image perçue. Quelle image voulez-vous projeter ? Que voulez-vous montrer de votre identité ?</li>
+                <li><strong>La voix</strong> : C'est le vecteur de la communication verbale et aussi un miroir des émotions. Ainsi, plusieurs caractéristiques de la voix sont à prendre en compte : intonation, vitesse, volume, timbre, ton, respiration ou encore articulation.</li>
+                <li><strong>Les gestes et l'attitude</strong> : la posture qu'adopte un individu envoie des signaux à son interlocuteur, tout comme la gestuelle traduit des informations sur l'état émotionnel de l'individu. Le plus souvent, on commence par décrypter la poignée de mains : elle doit être ferme pour indiquer à l'autre que l'on a confiance en soi. Le dos droit, sourire franc, votre conversation est bien partie !</li>
+                <li><strong>Le regard</strong> : <cite>Les yeux sont le miroir de l'âme.</cite> Le regard appuie souvent le message verbal. Il peut être fixe, fuyant, distrait, tourné vers le haut ou vers le bas, rieur, sombre, appuyé, bienveillant.</li>
+                <li><strong>Les expressions physiologiques</strong> : on entend par là les expressions faciales et les mimiques. Elles sont souvent involontaires et reflètent alors des réactions d'émotions face à certaines situations : colère, tristesse, surprise, plaisir, embarras...</li>
+                <li><strong>L'espace et la distance</strong> : la manière dont l'espace est occupé détermine l'aisance d'une personne. Une personne à l'aise réduira les distances avec les interlocuteurs, ira même jusqu'à les toucher, tandis qu'une personne réservée mettra de la distance avec les autres.</li>
+            </ul>
+            <aside>Pour en savoir plus : <a href="https://blog.hubspot.fr/service/communication-non-verbale" target="_blank">hubspot.fr</a></aside>
         </section>
 
         <section id="questions">
@@ -79,20 +90,38 @@
                 <li><strong>Couleur</strong> : si vous utilisez des schémas ou graphiques, faites en sorte qu'ils soient lisibles et compréhensibles. Mettre de la couleur dans ses propos, c'est aussi utiliser des analogies, des métaphores et des formules. Ainsi, l'auditeur visualise le message avec des termes simples et éloignés du jargon. Et souvent plus mémorisable que tout le reste !</li>
                 <li><strong>Conversation</strong> : engager la conversation. Laisser à l'auditeur la possibilité de poser des questions, instaurer un échange.</li>
             </ul>
-            <aside>Pour en savoir plus : <a href="https://agentmajeur.fr/vulgarisation-scientifique-astuces/" target="_blank">agentmajeur.fr</aside>
+            <aside>Pour en savoir plus : <a href="https://agentmajeur.fr/vulgarisation-scientifique-astuces/" target="_blank">agentmajeur.fr</a></aside>
         </section>
 
         <section id="feedback">
-            <h2>Le feedback</h2>
+            <h2>Le feedback / feedforward</h2>
+            <p>La technique du <strong>feedforward</strong> consiste à formuler des demandes ou à proposer des options ou des solutions tournées vers l'avenir, contrairement à la technique du <strong>feedback</strong> qui fait un retour sur une situation passée.</p>
             <figure>
                 <img src="./img/feedback.jpg" alt="feedback"/>
                 <figcaption>Source : Deastance Services</figcaption>
             </figure>
+            <p>Nous pouvons changer le futur, mais nous ne pouvons pas changer le passé.</p>
+            <p>La méthode pratique est globalement la même si on regarde les schémas suivants.</p>
+            <figure>
+                <img src="./img/methodeFeedBack.jpg" alt="Pratiquer le feedback"/>
+                <figcaption>Source : Deastance Services</figcaption>
+                <img src="./img/methodeFeedForward.jpg" alt="Pratiquer le feedforward"/>
+                <figcaption>Source : Deastance Services</figcaption>
+            </figure>
+            <p>Ce qui change entre les deux techniques, c'est la philosophie. Avec le <strong>feedback</strong>, on fait de la <strong>curation</strong>. Avec le <strong>feedforward</strong>, on fait de la <strong>prévention</strong>.</p>
+            <p>Dans les deux cas, on peut en retirer des avantages :</p>
+            <figure>
+                <img src="./img/apportsFeedback.jpg" alt="Apports du feedback et du feedforward"/>
+                <figcaption>Source : Deastance Services</figcaption>
+            </figure>
+            <p>Il faut être dans un certain état d'esprit pour bien utiliser le feedback et le feedforward, savoir appliquer certaines règles simples :</p>
+            <figure>
+                <img src="./img/conditionsFeedBackForward.jpg" alt="Conditions du feedback et du feedforward"/>
+                <figcaption>Source : Deastance Services</figcaption>
+            </figure>
+            <aside>Pour en savoir plus : <a href="https://blog.hubspot.fr/marketing/feedforward" target="_blank">hubspot.fr</a></aside>
         </section>
 
-        <section id="feedforward">
-            <h2>Le feedforward</h2>
-        </section>
 
         <section id="monAvis">
             <h2>Mon Avis</h2>
