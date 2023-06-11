@@ -125,6 +125,16 @@
 
         <section id="monAvis">
             <h2>Mon Avis</h2>
+            <h3>Le cercle d'or</h3>
+            <p>Raconter son Pourquoi. On n'a pas forcément envie de raconter sa vie, mais quelques morceaux choisis, c'est une bonne idée selon moi pour permettre aux gens de comprendre et éventuellement de les aider à faire leur propre chemin.</p>
+            <h3>La communication non verbale</h3>
+            <p>Je suis une personne intuitive. Donc je n'ai jamais étudié la communication non verbale consciemment, mais je me suis toujours fiée à mon instinct pour croire à une personne. Donc mon inconscient fait le travail !</p>
+            <h3>Les questions puissantes</h3>
+            <p>Pour avoir suivi psychothérapies et programmes de développement personnel, je crois à la puissance des questions puissantes ! On a souvent du mal à y répondre, mais souvent ça vaut le coup.</p>
+            <h3>La méthode des 6C</h3>
+            <p>J'ai travaillé 20 ans dans la transfusion sanguine. C'est un domaine assez mal connu de la médecine, même par les médecins qui ont peu d'heures de formation dans leur cursus universitaire. Nous avions régulièrement des stagiaires, internes, externes, de tous domaines qui venaient visiter le laboratoire.Faire la visite et donner les explications étaient quelque chose que j'aimais beaucoup faire. Au début de chaque visite, je demandais d'où venaient les personnes pour adapter mon discours à l'état de leurs connaissances. Et je faisais souvent des schémas parce qu'on comprend toujours mieux avec un dessin !</p>
+            <h3>Le feedback / feedforward</h3>
+            <p>J'ai toujours demandé qu'on me dise quand je faisais des erreurs. Parce que, si on ne sait pas qu'on se trompe, on ne peut pas s'améliorer.</p>
         </section>
 
     </body>
