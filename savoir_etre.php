@@ -14,7 +14,7 @@
         <h1>Savoir être</h1>
 
         <p>Les savoir être, aussi appelés Soft Skills, sont les qualités personnelles et comportementales qui permettent de s'adapter à son environnement. On les acquiert par l'éducation parentale, par ses études, par les relations amicales et au sein du milieu professionnel.</p>
-        <p>Nous allons en voir ici quelques uns.</p>
+        <p>Nous allons en voir ici quelques uns, que j'ai sélectionnés parce que ce sont ceux qui me correspondent.</p>
 
         <ul>
             <li><a href="#equipe">Travail d'équipe</a></li>
@@ -24,47 +24,61 @@
             <li><a href="#curiosite">Curiosité</a></li>
             <li><a href="#adaptabilite">Adaptabilité</a></li>
             <li><a href="#perseverance">Persévérance</a></li>
-            <li><a href="#monAvis">Mon avis</a></li>
+            <li><a href="#resolution">Résolution de problèmes</a></li>
         </ul>
 
         <section id="equipe">
             <h2>Travail d'équipe</h2>
+            <p>Savoir travailler en équipe demande de savoir écouter et communiquer avec les autres, de tenir compte de leurs avis et points de vue. Cela permet d'avoir des relations de confiance, durables et épanouies.</p>
         </section>
 
 
         <section id="autonomie">
             <h2>Autonomie</h2>
+            <p>Un travailleur autonome est en mesure de se débrouiller seul, que ce soit au bureau ou à distance. Il prend des initiatives et est capable de gérer son temps et de se fixer des priorités cohérentes.</p>
         </section>
 
 
         <section id="rigueur">
             <h2>Rigueur et précision</h2>
+            <p>La rigueur est le respect des règles, des règlements et des normes, créant ainsi un environnement d'efficacité et de productivité. La personne rigoureuse se fixe des objectifs réalisables et s'y conforme scrupuleusement. Elle évitera de remettre à plus tard ou de perdre du temps sur des tâches non essentielles.</p>
+            <p>Une personne rigoureuse dans son travail respecte ses engagements, planifie ses objectifs, fait ses tâches et les fait bien.</p>
         </section>
 
 
         <section id="creativite">
             <h2>Creativité</h2>
+            <p>La créativité permet de s'éloigner des schémas de pensée dominants. Elle ouvre à de nouvelles perspectives.</p>
         </section>
 
 
         <section id="curiosite">
             <h2>Curiosité</h2>
+            <p>La curiosité est un outil puissant pour réussir dans le monde professionnel. En posant des questions et en expérimentant de nouvelles idées ou approches, nous pouvons mieux comprendre des sujets complexes, résoudre des problèmes plus efficacement et favoriser la créativité.</p>
         </section>
 
 
         <section id="adaptabilite">
             <h2>Adaptabilité</h2>
+            <p>Un profil adaptable a le sens des priorités et n'est pas déstabilisé par les changements et imprévus. Sa performance et sa productivité ne seront pas impactées.</p>
         </section>
 
 
         <section id="perseverance">
             <h2>Persévérance</h2>
+            <p>On dit aussi résilience. C'est la capacité de s'efforcer continuellement d'atteindre ses objectifs sans se laisser dévier par la négativité ou les difficultés. C'est la capacité de persévérer dans les moments difficiles, continuer une tâche malgré qu'elle soit désagréable.</p>
+            <p>Plus la tâche accomplie est ardue, plus la satisfaction associée sera forte. Cela implique l'importance du focus sur l'objectif à atteindre ainsi que les moyens mis à disposition pour y parvenir.</p>
         </section>
 
 
-        <section id="monAvis">
-            <h2>Mon avis</h2>
+        <section id="resolution">
+            <h2>Résolution de problèmes</h2>
+            <p>La capacité à résoudre des problèmes complexes prouve l'aptitude à identifier un problème et à en percevoir la complexité. Elle suppose également une bonne capacité d'analyses, une aptitude à trouver des solutions et une capacité à prendre des décisions pour mettre en oeuvre le plan d'action.</p>
         </section>
+
+
+        <aside>Pour en savoir plus : <a href="https://soft-skills.info/" target="_blank">soft-skills.info</aside>
+
 
         <?php include('footer.php'); ?>
 
