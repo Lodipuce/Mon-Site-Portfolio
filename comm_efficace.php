@@ -16,7 +16,7 @@
             <li><a href="#cercle">Le cercle d'or</a></li>
             <li><a href="#corporel">La communication non verbale</a></li>
             <li><a href="#questions">Les questions puissantes</a></li>
-            <li><a href="#methode">La méthode des 6C</a></li>
+            <li><a href="#methode">Vulgarisation, la méthode des 6C</a></li>
             <li><a href="#feedback">Le feedback / feedforward</a></li>
             <li><a href="#monAvis">Mon avis</a></li>
         </ul>
@@ -76,7 +76,7 @@
         </section>
 
         <section id="methode">
-            <h2>La méthode des 6C</h2>
+            <h2>Vulgarisation, la méthode des 6C</h2>
             <p>Quand on veut aborder une notion complexe devant des personnes qui n'y connaissent absolument rien, on parle de <strong>vulgarisation</strong>. On en parle le plus souvent dans le domaine scientifique. Mais cela peut s'appliquer à n'importe quoi : si je n'y connais rien en comptabilité, quelqu'un devra vulgariser la chose pour que je commence à appréhender le domaine.</p>
             <figure>
                 <img src="./img/methode6C.jpg" alt="Définition des 6C"/>
