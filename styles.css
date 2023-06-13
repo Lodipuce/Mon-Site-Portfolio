@@ -2,8 +2,7 @@
 
 #index_body {
     background-color: #5C0220;
-    width: 100%;
-    height: 100vh;
+    
 }
 
 #index_section {
@@ -29,10 +28,25 @@
 }
 
 
-/* AUTRES PAGES */
+/* PAGES COMMUNES */
 
 body {
     background-color: #f4f6e9;
     color: #5c0220;
     margin: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+
+/* SOMMAIRE GENERAL */
+
+.cps {
+    display: flex;
+    flex-direction: column; 
+}
+
+#cps_mindmap {
+    width: 1000px;
+    height: auto;
 }
