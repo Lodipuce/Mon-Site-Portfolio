@@ -1,26 +1,38 @@
-body {
-    background-color: #f4f6e9;
-    color: #5c0220;
-    font: Magistral;
-}
+/* INDEX */
 
-section,p {
-    background-color: #f4f6e9;
-}
-
-#acceuil {
-    background-image: url("./img/psychology-4440675_1920.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
+#index_body {
+    background-color: #5C0220;
     width: 100%;
     height: 100vh;
 }
 
-h2 {
+#index_section {
+    background-image: url("./img/psychology-4440675_1920.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;   
+}
+
+#index_section h2 {
     z-index: 2;
     background-color: transparent;
+    color: #d4e061;
+    font-size: 48px;
 }
 
 #entrer {
     background-color: #d4e061;
+    width: 191px;
+    height: 73px;
+    padding: 5px 10px;
+}
+
+
+/* AUTRES PAGES */
+
+body {
+    background-color: #f4f6e9;
+    color: #5c0220;
+    margin: 0;
 }
