@@ -1,11 +1,11 @@
 body {
-    background-color: #0E0359;
-    color: #fbfafa;
+    background-color: #f4f6e9;
+    color: #5c0220;
     font: Magistral;
 }
 
 section,p {
-    background-color: #d98f7e4d;
+    background-color: #f4f6e9;
 }
 
 #acceuil {
@@ -22,5 +22,5 @@ h2 {
 }
 
 #entrer {
-    background-color: #F2A74B;
+    background-color: #d4e061;
 }
