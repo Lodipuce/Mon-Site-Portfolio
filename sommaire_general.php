@@ -8,23 +8,33 @@
     <title>CPS ?</title>
 </head>
     <body>
-        <header>
-            
-        </header>
+        <div class="container">
+            <header id="generalHeader">
+                <nav class="hidden">
+                    <a href="sommaire_general.php">Accueil</a>
+                </nav>
+            </header>
 
-        
-            <div><h1>Les Compétences psycho-sociales, qu'est-ce que c'est ?</h1></div>
-            <figure class="cps">
-                <div id="cps_def">
-                    <img src="./img/def_cps.jpg">
-                    <figcaption>Source : Deastance Services</figcaption>
-                </div>
-                <div class="mindmap">
-                    <img src="./img/CPS C'est quoi MindMap_page-0001.jpg">
-                    <figcaption>Source : Deastance Services</figcaption>
-                </div>
-            </figure>
-            
-        <?php include('footer.php'); ?>
+            <main>
+                <div><h1>Les Compétences psycho-sociales, qu'est-ce que c'est ?</h1></div>
+                <figure class="cps">
+                    <div id="cps_def">
+                        <img src="./img/def_cps.jpg">
+                        <figcaption>Source : Deastance Services</figcaption>
+                    </div>
+                    <div class="mindmap">
+                        <img src="./img/CPS C'est quoi MindMap_page-0001.jpg">
+                        <figcaption>Source : Deastance Services</figcaption>
+                    </div>
+                </figure>
+
+                <?php include('sidebar.php'); ?>
+
+            </main>
+                
+            <?php include('footer.php'); ?>
+
+        </div>
+
     </body>
 </html>
