@@ -1,10 +1,5 @@
-<header class="header">
-    <nav class="header_general">
-        <a href="sommaire_general.php">Accueil</a>
-        <a href="communication.php">Communication</a>
-    </nav>
-
-    <nav class="header_specifique">
+<header class="sidenavbar">
+    <nav class="sidenavbar_specifique">
         <a href="competences_comm.php">Compétences qui améliorent la communication</a>
         <a href="CNV.php">Communication Non Violente</a>
         <a href="comm_efficace.php">Communication efficace</a>

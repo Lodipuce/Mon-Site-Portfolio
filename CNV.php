@@ -10,10 +10,10 @@
 
     <body>
         <div class="container">
-            <?php include('header_sommaire_comm.php'); ?>
+            <?php include('header.php'); ?>
 
             <main>
-                <?php include('sidebar.php'); ?>
+                <?php include('sidebar_sommaire_comm.php'); ?>
 
                 <div class="container_cps">
                     <h1>La Communication Non Violente (CNV)</h1>

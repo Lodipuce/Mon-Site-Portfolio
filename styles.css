@@ -72,16 +72,11 @@ main {
 
 .header {
     top: 0;
-    height: 135px;
+    height: 100px;
     width: auto;
     background-color: #5C0220;
     display: flex;
-    flex-direction: column; 
-}
-
-.header_general, .header_specifique {
-    display: flex;
-    flex-direction: row;
+    flex-direction: row; 
     justify-content: space-around;
 }
 
@@ -92,7 +87,7 @@ main {
     background-color: #d4e061;
     width: 120px;
     height: 50px;
-    margin: 5px;
+    margin: 20px;
     padding: 2px;
     text-decoration: none;
 }
@@ -123,6 +118,9 @@ a:hover {
     height: auto;
 }
 
+ul li{
+    margin-left: 40px;
+}
 
 /* SOMMAIRE GENERAL */
 
