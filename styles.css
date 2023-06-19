@@ -34,7 +34,7 @@ body {
     background-color: #f4f6e9;
     color: #5c0220;
     margin: 0;
-    width: 100%;
+    width: auto;
     max-width: 100%;
     box-sizing: border-box;
 }
@@ -54,36 +54,68 @@ main {
 .sidenavbar {
     flex-shrink: 0;
     background-color: #5C0220;
-    width: 160px;
-    height: 100vh;
-    padding: 10px;
-    position: fixed;
-    top: 120;
+    height: auto;
     left: 0;
 }
 
 .sidenavbar a {
-    display: block;
-    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: #d4e061;
-    width: 191px;
-    height: 73px;
+    width: 120px;
+    height: 50px;
     margin: 30px;
+    padding: 10px;
+    text-decoration: none;
 }
 
+.header {
+    top: 0;
+    height: 135px;
+    width: auto;
+    background-color: #5C0220;
+    display: flex;
+    flex-direction: column; 
+}
 
-/* SOMMAIRE GENERAL */
+.header_general, .header_specifique {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 
-.cps {
+.header a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d4e061;
+    width: 120px;
+    height: 50px;
+    margin: 5px;
+    padding: 2px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container_cps {
     display: flex;
     flex-direction: column;
     flex-grow: 1; 
+}
+
+.container_cps h1 , h2, p , aside { 
+    margin-left: 40px;
 }
 
 .mindmap {
     width: 100%;
     max-width: 100%;
     box-sizing: border-box;
+    margin-top: 40px;
 }
 
 .mindmap img {
@@ -91,8 +123,10 @@ main {
     height: auto;
 }
 
+
+/* SOMMAIRE GENERAL */
+
 .generalHeader {
-    position: fixed;
     top: 0;
     height: 120px;
     background-color: #5C0220;

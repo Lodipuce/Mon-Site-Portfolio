@@ -9,36 +9,43 @@
 </head>
 
     <body>
-        <?php include('header_sommaire_comm.php'); ?>
-        
-        <h1>La communication</h1>
-
-        <section>
-            <h2>Quels sont les bénéfices d'avoir une bonne communication ?</h2>
-            <figure>
-                <img src="./img/Benefices_communication.jpg" alt="les bénéfices de la communication">
-                <figcaption>Source : Deastance Services</figcaption>
-            </figure>
+        <div class="container">
+            <?php include('header_sommaire_comm.php'); ?>
             
-            <p>Cependant, la communication est soumise à interprétation de la part de chacun des interlocuteurs et dépend de l'environnement.</p>
-            <figure>
-                <img src="./img/interpretation_comm.jpg" alt="interprétation dans la communication">
-                <figcaption>Source : Deastance Services</figcaption>
-            </figure>
-            
-        </section>
+            <main>
+                <?php include('sidebar.php'); ?>
 
-        <aside>
-            <h2>Bon à savoir !</h2>
-            <p>La communication ne passe pas uniquement par les mots. Ces derniers ne représentent qu'une infime partie du message. Le reste passe par le langage non verbal et le visuel, c'est à dire un ensemble de signaux conscients ou non envoyés par le corps à travers notre position par exemple.</p>
-            <figure>
-                <img src ="./img/pourcentage_langage_nonverbal.jpg" alt="camembert montrant le pourcentage de langage non verbal">
-                <figcaption>Source : Deastance Services</figcaption>
-            </figure>
-            
-        </aside>
+                <div class="container_cps">
+                    <h1>La communication</h1>
 
-        <?php include('footer.php'); ?>
+                    <section>
+                        <h2>Quels sont les bénéfices d'avoir une bonne communication ?</h2>
+                        <figure>
+                            <img src="./img/Benefices_communication.jpg" alt="les bénéfices de la communication">
+                            <figcaption>Source : Deastance Services</figcaption>
+                        </figure>
+                        
+                        <p>Cependant, la communication est soumise à interprétation de la part de chacun des interlocuteurs et dépend de l'environnement.</p>
+                        <figure>
+                            <img src="./img/interpretation_comm.jpg" alt="interprétation dans la communication">
+                            <figcaption>Source : Deastance Services</figcaption>
+                        </figure>
+                        
+                    </section>
+                </div>
 
+                <aside>
+                    <h2>Bon à savoir !</h2>
+                    <p>La communication ne passe pas uniquement par les mots. Ces derniers ne représentent qu'une infime partie du message. Le reste passe par le langage non verbal et le visuel, c'est à dire un ensemble de signaux conscients ou non envoyés par le corps à travers notre position par exemple.</p>
+                    <figure>
+                        <img src ="./img/pourcentage_langage_nonverbal.jpg" alt="camembert montrant le pourcentage de langage non verbal">
+                        <figcaption>Source : Deastance Services</figcaption>
+                    </figure>
+                    
+                </aside>
+            </main>
+
+            <?php include('footer.php'); ?>
+        </div>
     </body>
 </html>
