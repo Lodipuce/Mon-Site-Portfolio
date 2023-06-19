@@ -18,7 +18,7 @@
                 <div class="container_cps">
                     <h1>La Communication Non Violente (CNV)</h1>
 
-                    <figure>
+                    <figure class="image">
                         <blockquote>
                             <p>La Communication Non Violente est le langage et les interactions qui renforcent notre aptitude à donner avec bienveillance et à inspirer aux autres le désir d'en faire autant.</p>
                         </blockquote>
@@ -47,7 +47,8 @@
                         <p><strong>SENTIMENT</strong> : exprimer les sentiments que l'on ressent par rapport à la situation</p>
                         <p><strong>BESOIN</strong> : énoncer nos besoins par rapport à la situation</p>
                         <p><strong>DEMANDE</strong> : proposer une solution, énoncer une demande claire et précise</p>
-                        <figure>
+
+                        <figure class="image">
                             <img src="./img/cnv-dessin.gif" alt="bonhomme OSBD"/>
                             <figcaption>Source : <a href="https://sainte-bernadette.apprentis-auteuil.org/la-communication-non-violente/" target="_blank">sainte-bernadette.apprentis-auteuil.org</a></figcaption>
                             <img src="./img/CNV-exercice.png" alt="phrases pour aider à la CNV"/>
@@ -64,9 +65,9 @@
                         <p>Les besoins quant à eux sont souvent partagés entre les besoins physiologiques, les besoins de sécurité, d'appartenance, d'estime et d'accomlissement de soi (Pyramide de Maslow).</p>
 
                         <figure>
-                            <img src="./img/ROUE-EMOTIONS-2021.jpg" alt="roue des émotions"/>
+                            <img src="./img/ROUE-EMOTIONS-2021.jpg" alt="roue des émotions" class="image"/>
                             <figcaption>Source : Harmonie Académie</figcaption>
-                            <img src="./img/ROUE-BESOINS-2021_Page_1-1.jpeg" alt="roue des besoins"/>
+                            <img src="./img/ROUE-BESOINS-2021_Page_1-1.jpeg" alt="roue des besoins" class="image"/>
                             <figcaption>Source : Harmonie Académie</figcaption>
                         </figure>
                     </section>

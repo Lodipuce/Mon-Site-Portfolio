@@ -33,7 +33,7 @@
                         <p>Autrement dit, l'assertivité désigne le fait de défendre ses droits personnels et d'exprimer ses pensées, ses sentiments et ses convictions de façon directe, honnête, ferme et appropriée. Toujours en respectant les pensées, sentiments et convictions des autres personnes.</p>
                         <p>Les personnes assertives possèdent d'excellentes qualités de communication interpersonnelles et sont animées par une recherche permanente de franchise et de respect mutuel.</p>
 
-                        <figure>
+                        <figure class="image">
                             <img src="./img/5leviersAssertivite2.png" alt="5 leviers pour développer l'assertivité"/>
                             <figcaption>Source : <a href="https://se-realiser.com/pourquoi-et-comment-developper-lassertivite/" target="_blank">se-realiser.com</a>, Design par Human Vectors, Vecteezy, Chanut is Industries, pch.vector Iconscout et Se-realiser</figcaption>
                         </figure>
@@ -47,7 +47,7 @@
                         <p>L'écoute active, également appelée écoute bienveillante, exige de savoir écouter avec attention ce que l'autre a à nous dire. L'intention est de saisir chaque détail du message, qu'il soit verbal ou non. Ceci afin de faire comprendre à l'autre que l'on a entendu et compris son message.</p>
                         <p>Selon Carl Rogers, le psychologue qui a développé cette technique, elle se décompose en 5 étapes.</p>
 
-                        <figure>
+                        <figure class="image">
                             <img src="./img/imperatifs_ecoute_active.jpg" alt="les impératifs de l'écoute active"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
@@ -55,7 +55,7 @@
                         <p>Les principes de bases fondamentaux de l'écoute active sont <strong>la non-directivité</strong> et <strong>l'empathie</strong>.</p>
                         <p>On peut tout de même dégager quelques conseils pratiques :</p>
 
-                        <figure>
+                        <figure class="image">
                             <img src="./img/conseils_ecoute_active.jpg" alt="conseils pour pratiquer l'écoute active"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
@@ -69,9 +69,9 @@
                         <p>Être empathique consiste à percevoir avec justesse le cadre de référence interne de son interlocuteur ainsi que les raisonnements et émotions qui en résultent.</p>
 
                         <figure>
-                            <img src="./img/SkillSheets_Empathy_FR_20231024_1.jpg" alt="empathie flyer recto"/>
+                            <img src="./img/SkillSheets_Empathy_FR_20231024_1.jpg" alt="empathie flyer recto" class="image"/>
                             <figcaption>Source : <a href="https://www.unodc.org/unodc/fr/listen-first/super-skills/empathy.html#:~:text=L'empathie%20est%20la%20capacit%C3%A9,%C3%A0%20un%20monde%20plus%20juste." target="_blank">unodc.org</a></figcaption>
-                            <img src="./img/SkillSheets_Empathy_FR_20231024_2.jpg" alt="empathie flyer verso"/>
+                            <img src="./img/SkillSheets_Empathy_FR_20231024_2.jpg" alt="empathie flyer verso" class="image"/>
                             <figcaption>Source : <a href="https://www.unodc.org/unodc/fr/listen-first/super-skills/empathy.html#:~:text=L'empathie%20est%20la%20capacit%C3%A9,%C3%A0%20un%20monde%20plus%20juste." target="_blank">unodc.org</a></figcaption>
                         </figure>
                             

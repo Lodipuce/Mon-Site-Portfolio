@@ -33,7 +33,7 @@
                         <p>En effet, si je dois faire une prise de parole sur la confiture en face d'un public de producteurs de fraises ou de fabricants de bocaux, je ne parlerai pas tout à fait de la même chose !</p>
                         <p>Ce qui revient à savoir faire preuve d'un minimum d'<a href="competences_comm.html #empathie">empathie</a>.</p>
                     
-                        <figure>
+                        <figure class="image">
                             <img src="./img/pexels-monstera-6238170.jpg" alt="quatre personnes prenant des notes"/>
                             <figcaption>Source : Pexels, photo de Monstera</figcaption>
                         </figure>
@@ -45,7 +45,7 @@
                         <p>Au contraire, plus on maîtrise un sujet, plus on est capable de le simplifier pour l'expliquer aux autres.</p>
                         <p>Les messages clairs, concis et cohérents, c'est le top !</p>
 
-                        <figure>
+                        <figure class="image">
                             <img src="./img/pexels-christina-morillo-1181395.jpg" alt="réunion en cours"/>
                             <figcaption>Source : Pexels, photo de Christina Morillo</figcaption>
                         </figure>
@@ -56,7 +56,7 @@
                         <p>Un exposé bien construit est d'autant plus clair et attractif pour les auditeurs.</p>
                         <p>Idéalement, un exposé comporte 4 parties que sont l'introduction, le corps, la conclusion et l'appel à l'action (la demande).</p>
 
-                        <figure>
+                        <figure class="image">
                             <img src="./img/httpswww.bernard-guevorts.comarticlequelle-structure-donner-a-votre-expose-pour-quil-soit-performant.jpg" alt="les 4 phases d'un exposé"/>
                             <figcaption>Source : <a href="https://www.bernard-guevorts.com/article/quelle-structure-donner-a-votre-expose-pour-quil-soit-performant/" target="_blank">bernard-guevorts.com</a></figcaption>
                         </figure>
@@ -78,7 +78,7 @@
                         <p>Maintenant il ne faut pas la perdre.</p>
                         <p>Comme dit plus haut, pour éviter de perdre les auditeurs, il faut utiliser des termes clairs, concis et cohérents. <br>De plus, Pour maintenir l'attention, il faut du rythme, de l'enthousiasme et garder un contact visuel avec les personnes. Sans oublier de garder le sourire !</p>
                     
-                        <figure>
+                        <figure class="image">
                             <img src="./img/micro.jpg" alt="micro"/>
                             <ficaption>Source : Pixabay, photo de Skitterphoto</ficaption>
                         </figure>
@@ -96,7 +96,7 @@
                             <li>La voix : poser sa voix, articuler.</li>
                         </ul>
 
-                        <figure>
+                        <figure class="image">
                             <img src="./img/priseDeParolePendantEvenementFestif.jpg" alt="prise de parole pendant un évènement festif"/>
                             <figcaption>Source : Unsplash, photo de Priscilla du Preez</figcaption>
                         </figure>

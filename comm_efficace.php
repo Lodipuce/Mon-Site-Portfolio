@@ -35,7 +35,8 @@
                         <p>Ainsi, en commençant par le <strong>Pourquoi</strong>, on explique la raison qui nous pousse à faire ce que l'on fait, pourquoi on a choisi telle ou telle voie. C'est notre raison d'être. On devient inspirant.</p>
                         <p>La théorie du cercle d'or repose en fait sur un simple mot : l'<strong>authenticité</strong>. Raconter son histoire, sa raison d'être, qui on est, ce qu'on fait et pourquoi on le fait.</p>
                         <aside>Pour en savoir plus : <a href="https://flexjob.fr/why-theorie-cercle-dor-simon-sinek/" target="_blank">flexjob.fr</aside>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/cercledor.png" alt="cercle d'or"/>
                             <figcaption>Source : <a href="https://www.squid-impact.fr/communiquez-ce-que-vous-etes" target="_blank">squid impact</a></figcaption>
                         </figure>
@@ -60,21 +61,26 @@
                     <section id="questions">
                         <h2>Les questions puissantes</h2>
                         <p>Une question puissante est une question ouverte, c'est à dire que l'on ne peut pas y répondre par oui ou non. Les réponses attendues seront donc construites et structurées pour trouver une solution et ne pas rester bloqué sur un problème.</p>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/thinkOutOfTheBox.jpg" alt="Penser en dehors de la boîte"/>
                             <figcaption>Source : <a href="https://pauldevaux.fr/question-puissante/" target="_blank">pauldevaux.fr</a></figcaption>
                         </figure>
+
                         <p>Ces questions sont impliquantes. Elles permettent de contruire un échange entre vous et votre interlocuteur.</p>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/caracteristiquesQuestionsPuissantes.jpg" alt="Caractéristiques des questions puissantes"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
-                        <figure>
+
+                        <figure class="image">
                             <img src="./img/impactsQuestionsPuissantes.jpg" alt="Impact des questions puissantes"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
+
                         <p>Quelques exemples de questions puissantes :</p>
-                        <figure>
+                        <figure class="image">
                             <img src="./img/exemplesQuestionsPuissantes.jpg" alt="Exemples de questions puissantes"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
@@ -84,10 +90,12 @@
                     <section id="methode">
                         <h2>Vulgarisation, la méthode des 6C</h2>
                         <p>Quand on veut aborder une notion complexe devant des personnes qui n'y connaissent absolument rien, on parle de <strong>vulgarisation</strong>. On en parle le plus souvent dans le domaine scientifique. Mais cela peut s'appliquer à n'importe quoi : si je n'y connais rien en comptabilité, quelqu'un devra vulgariser la chose pour que je commence à appréhender le domaine.</p>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/methode6C.jpg" alt="Définition des 6C"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
+
                         <ul>
                             <li><strong>Clarté</strong> : être vigilant avec les acronymes qui devront tous être définis dès le départ. Il faudra aussi veiller à commencer par les notions les plus générales pour aller ensuite vers les plus compliquées, on appelle ça la technique de l'entonnoir.</li>
                             <li><strong>Connexion</strong> : créer une connexion avec le public. Pour cela, il va falloir essayer de le surprendre, de le faire rire, de l'épater ou de lui faire peur. Vous pouvez aussi l'amuser ou partager vos propres émotions.</li>
@@ -102,29 +110,37 @@
                     <section id="feedback">
                         <h2>Le feedback / feedforward</h2>
                         <p>La technique du <strong>feedforward</strong> consiste à formuler des demandes ou à proposer des options ou des solutions tournées vers l'avenir, contrairement à la technique du <strong>feedback</strong> qui fait un retour sur une situation passée.</p>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/feedback.jpg" alt="feedback"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
+
                         <p>Nous pouvons changer le futur, mais nous ne pouvons pas changer le passé.</p>
                         <p>La méthode pratique est globalement la même si on regarde les schémas suivants.</p>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/methodeFeedBack.jpg" alt="Pratiquer le feedback"/>
                             <figcaption>Source : Deastance Services</figcaption>
                             <img src="./img/methodeFeedForward.jpg" alt="Pratiquer le feedforward"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
+
                         <p>Ce qui change entre les deux techniques, c'est la philosophie. Avec le <strong>feedback</strong>, on fait de la <strong>curation</strong>. Avec le <strong>feedforward</strong>, on fait de la <strong>prévention</strong>.</p>
                         <p>Dans les deux cas, on peut en retirer des avantages :</p>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/apportsFeedback.jpg" alt="Apports du feedback et du feedforward"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
+
                         <p>Il faut être dans un certain état d'esprit pour bien utiliser le feedback et le feedforward, savoir appliquer certaines règles simples :</p>
-                        <figure>
+                        
+                        <figure class="image">
                             <img src="./img/conditionsFeedBackForward.jpg" alt="Conditions du feedback et du feedforward"/>
                             <figcaption>Source : Deastance Services</figcaption>
                         </figure>
+                        
                         <aside>Pour en savoir plus : <a href="https://blog.hubspot.fr/marketing/feedforward" target="_blank">hubspot.fr</a></aside>
                     </section>
 

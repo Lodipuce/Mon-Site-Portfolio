@@ -18,7 +18,7 @@
                 <div class="container_cps">
                     <h1>Styles de communication</h1>
 
-                    <figure>
+                    <figure class="image">
                         <img src="./img/pexels-fauxels-3183148.jpg"/>
                         <figcaption>Source : Pexels, auteur : Fauxels</figcaption>
                     </figure>
@@ -57,7 +57,7 @@
                         <p>Ce style est précis, exact, analytique et logique. Les personnes ayant un style de communication analytique sont systématiques et sont tournées vers leurs tâches. Elles sont parfois perçues comme étant perfectionnistes. Elles sont organisées, autonomes, tournées vers les résultats et diplomates. Elles sont motivées par la certitude et donnent rarement leur opinion si on ne la leur demande pas. Elles sont lentes et prudentes dans leur rythme et aiment les environnements structurés, ordonnés et fonctionnels. Comme elles ont besoin d'être sûres de leur position et des attentes des autres, elles gardent leurs informations privées et n'expriment pas facilement leurs émotions.</p>
                     </section>
 
-                    <figure>
+                    <figure class="image">
                         <img src="./img/pexels-fauxels-3182765.jpg"/>
                         <figcaption>Source : Pexels, auteur : Fauxels</figcaption>
                     </figure>
@@ -77,7 +77,7 @@
                         <p>Les communicateurs analytiques aiment les faits et les chiffres. Présentezleur vos informations de manière organisée et soyez prêt à répondre aux questions. Soyez patients pendant qu'ils évaluent et intègrent de nouvelles informations.</p>
                     </section>
 
-                    <figure>
+                    <figure class="image">
                         <img src="./img/pexels-christina-morillo-1181605.jpg"/>
                         <figcaption>Source : Pexels, auteur : Christina Morillo</figcaption>
                     </figure>

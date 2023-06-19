@@ -122,6 +122,11 @@ ul li{
     margin-left: 40px;
 }
 
+figure.image img {
+    width: 800px;
+    height: auto;
+}
+
 /* SOMMAIRE GENERAL */
 
 .generalHeader {
