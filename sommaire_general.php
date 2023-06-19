@@ -13,8 +13,6 @@
             <?php include('header.php'); ?>
 
             <main>
-                <!-- <?php include('sidebar.php'); ?> -->
-
                 <div class="container_cps">
                     <div><h1>Les Compétences psycho-sociales, qu'est-ce que c'est ?</h1></div>
                     <figure class="cps">
@@ -27,9 +25,6 @@
                         </div>
                     </figure>
                 </div>
-
-                
-
             </main>
                 
             <?php include('footer.php'); ?>
