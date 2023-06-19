@@ -102,7 +102,7 @@ a:hover {
     flex-grow: 1; 
 }
 
-.container_cps h1 , h2, p , aside { 
+.container_cps h1 , h2, h3, p , aside { 
     margin-left: 40px;
 }
 
