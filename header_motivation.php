@@ -1,11 +1,11 @@
 <header>
     <nav>
-        <a href="sommaire_general.php">Accueil</a>
-        <a href="motivation.php">Exprimer sa motivation</a>
+        <a href="sommaire_general.html">Accueil</a>
+        <a href="motivation.html">Exprimer sa motivation</a>
     </nav>
 
     <nav>
-        <a href="cv.php">CV</a>
-        <a href="entretien.php">Entretien d'embauche</a>
+        <a href="cv.html">CV</a>
+        <a href="entretien.html">Entretien d'embauche</a>
     </nav>
 </header>
